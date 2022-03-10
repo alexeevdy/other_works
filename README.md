@@ -1,2 +1,2 @@
 # other_works
-Lesser in size problem solutions.
+small-sized problem solutions.
